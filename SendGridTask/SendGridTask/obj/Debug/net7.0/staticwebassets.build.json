@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jbWSEIPW4c8XGpXAafsg1jAXMmn7N/4WRD75ZKNIsmI=",
+  "Source": "SendGridTask",
+  "BasePath": "_content/SendGridTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
