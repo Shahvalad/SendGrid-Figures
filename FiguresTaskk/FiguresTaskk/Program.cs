@@ -36,11 +36,11 @@ for (int i = 0; i < 6; i++)
     {
         if (i == 0 || i == 5 || j == 0 || j == 6)
         {
-            Console.Write("*");
+            Console.Write("* ");
         }
         else
         {
-            Console.Write(" ");
+            Console.Write("  ");
         }
     }
 
